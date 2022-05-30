@@ -12,7 +12,7 @@
 }
 
 .menu a{
-  padding: 10px 15px;
+  padding: 16px 20px;
   color: #222;
   text-transform: uppercase;
   font-family: monospace;
@@ -116,6 +116,7 @@
 }
 .dados a{
   display:inline-block ;
+
 }
 .dados li::before{
   content: "";
