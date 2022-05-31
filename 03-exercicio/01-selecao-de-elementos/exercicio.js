@@ -2,7 +2,6 @@
 
 const img = document.querySelectorAll('img')
 
-
 //Retorne no console apenas as imagens que  comecaram com a palavra imagem
 
 const imagensDosAnimais = document.querySelectorAll('img[src^="./img/imagem"]')
