@@ -1,0 +1,29 @@
+[data-cor]{
+  background-color: red;
+}
+
+.menu{
+  grid-column: 3/5;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background: #fb5;
+}
+.menu ul{
+  display: flex;
+  flex-wrap:wrap ;
+  gap: 20px;
+  padding: 10px;
+}
+.menu a{
+  padding: 10px 15px;
+  color: #222;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+}
+img{
+  max-width: 200px;
+  display: inline-block;
+}
+ul{
+  list-style: none;
+}
